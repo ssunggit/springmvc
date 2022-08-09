@@ -7,8 +7,11 @@
 <title>hello</title>
 </head>
 <body>
-hello.jsp입니다
-<br>
+<div>
+	hello.jsp입니다
+</div>
+<div>
 서버에서 받은 Message : ${ msg }
+</div>
 </body>
 </html>
