@@ -16,6 +16,8 @@ import kr.ac.kopo.member.MemberVO;
 @Controller
 public class ResBodyController {
 	
+	
+	
 	@ResponseBody
 	@RequestMapping("/resBody.do")
 	public String resStringBody() {
